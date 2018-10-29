@@ -15,6 +15,7 @@ body {
 
 header {
   background-color: #d05c2e;
+  border-bottom: 1px solid #a62f38;
 }
 
 img {
@@ -62,6 +63,7 @@ h1 {
 .links .cereals {
   border: 1px solid #a62f38;
   border-top: 0;
+  border-bottom: 0;
 }
 
 .links a:hover {
